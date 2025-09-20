@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{64BFE176-2C92-8BEC-6DE8-473C605FE07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALP8310_ControllerGlobal.Editor", "ALP8310_ControllerGlobal.Editor.csproj", "{E30D18E8-4780-A779-7F88-CCCEF629054A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{2FA94832-04F8-E1C2-7B03-77BF5EC6D8DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALP8310_ControllerGlobal", "ALP8310_ControllerGlobal.csproj", "{E8987A06-DA51-AB3A-A128-9B0BD13A6A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D639510A-B7C0-C64D-F6AD-66CC4ECACC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64BFE176-2C92-8BEC-6DE8-473C605FE07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BFE176-2C92-8BEC-6DE8-473C605FE07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BFE176-2C92-8BEC-6DE8-473C605FE07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BFE176-2C92-8BEC-6DE8-473C605FE07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30D18E8-4780-A779-7F88-CCCEF629054A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30D18E8-4780-A779-7F88-CCCEF629054A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30D18E8-4780-A779-7F88-CCCEF629054A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30D18E8-4780-A779-7F88-CCCEF629054A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA94832-04F8-E1C2-7B03-77BF5EC6D8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA94832-04F8-E1C2-7B03-77BF5EC6D8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA94832-04F8-E1C2-7B03-77BF5EC6D8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA94832-04F8-E1C2-7B03-77BF5EC6D8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8987A06-DA51-AB3A-A128-9B0BD13A6A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8987A06-DA51-AB3A-A128-9B0BD13A6A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8987A06-DA51-AB3A-A128-9B0BD13A6A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8987A06-DA51-AB3A-A128-9B0BD13A6A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
